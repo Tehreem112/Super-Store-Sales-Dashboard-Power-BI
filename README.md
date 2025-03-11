@@ -5,7 +5,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 ## Key analysis:
 - KPIs
-- Monthly base sales & profit tracking
+- On monthly bases sales & profit tracking
 - Region-wise sales analysis
 - Shipment & profit
 
