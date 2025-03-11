@@ -9,5 +9,5 @@ To contribute to the success of a business by utilizing data analysis techniques
 - Region-wise sales analysis
 - Shipment & profit
 
-## Dashboard link"
-<a href = "
+## Dashboard link
+<a href = "https://github.com/Tehreem112/Super-Store-Sales-Dashboard-Power-BI/blob/main/Super%20Store%20Dashboard%20Power%20BI.png"> SuperStore Sales Dashboard</a>
